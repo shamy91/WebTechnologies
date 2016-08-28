@@ -1,0 +1,72 @@
+body{
+
+  
+   background-image: linear-gradient(0deg,#0b3c51,#0F506C, #136587, #42839F) !important;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}  
+
+.link a{
+    color: black;
+}
+
+.tdquot{
+ 
+    font-weight:bold;
+}
+
+
+.red{
+
+    color: red;
+}
+.green{
+     color: green;
+}
+
+.nav-pills > li.active > a:focus{
+    background-color: #214565 !important;
+    color: white!important;
+}
+nav-pills > li.active > a{
+     background-color: #214565 !important;
+     color: white !important;
+
+}
+
+#err{
+    visibility: hidden;
+}
+
+.ui-autocomplete{
+    text-align: left !important;
+}
+.fav{
+	
+	background-color: #f2f2f2;
+}
+
+.glyphicon-star{
+	color:yellow;
+	font-size:20px;
+	text-shadow: -1px 0 gainsboro, 0 1px gainsboro, 1px 0 gainsboro, 0 -1px gainsboro;
+}
+
+@media (max-width: 1000px) {
+    .col-xs-12 {
+        margin-top:20px;
+    }
+}
+#details{
+	overflow-x:none;
+}
+
+#chrt
+{
+    max-width: 100%;
+    height: auto;
+}
+
+#favtab{
+    overflow: auto;
+}
