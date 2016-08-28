@@ -1,6 +1,3 @@
-# WebTechnologies
-
-This repository contains code for website and android app designed for Web Technologies course at USC.
 
 ##Stock Search website
 The website allows users to search for stock details for all available stocks in real time, using the Markit-OnDemand API.
